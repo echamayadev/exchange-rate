@@ -7,7 +7,7 @@ El presente proyecto tiene como finalidad la solución del reto técnico propues
 
 El proyecto tiene 2 maneras de levantar.
 - Clonar el repositorio y abrirlo en un IDE y levantarlo localmente
-- Clonar el repositorio y levantar con docker
+- Clonar el repositorio, abrirlo en un IDE, ejecutar el maven install y levantar con docker
 
 ### Levantar con Docker
 - Situarse en la raíz del proyecto /exchange-rate
